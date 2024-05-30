@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2F3062D-AB25-45EE-B74B-50BD7E1D44B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>apartman</RootNamespace>
+    <AssemblyName>apartman</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aidatodeform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aidatodeform.Designer.cs">
+      <DependentUpon>aidatodeform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="asansorodemefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="asansorodemefrm.Designer.cs">
+      <DependentUpon>asansorodemefrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DbSiteDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DbSiteDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="elektriködeme1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="elektriködeme1.Designer.cs">
+      <DependentUpon>elektriködeme1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gulmezaptgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gulmezaptgiris.Designer.cs">
+      <DependentUpon>gulmezaptgiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gulmezoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gulmezoda.Designer.cs">
+      <DependentUpon>gulmezoda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciGirisi.Designer.cs">
+      <DependentUpon>KullaniciGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="macaraptgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="macaraptgiris.Designer.cs">
+      <DependentUpon>macaraptgiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="macarGercekKisiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="macarGercekKisiler.Designer.cs">
+      <DependentUpon>macarGercekKisiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="saracaptgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saracaptgiris.Designer.cs">
+      <DependentUpon>saracaptgiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saracoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saracoda.Designer.cs">
+      <DependentUpon>saracoda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sifremiunuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifremiunuttum.Designer.cs">
+      <DependentUpon>sifremiunuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="suodeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="suodeme.Designer.cs">
+      <DependentUpon>suodeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yenikullanıcıform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yenikullanıcıform.Designer.cs">
+      <DependentUpon>yenikullanıcıform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiGirisi.Designer.cs">
+      <DependentUpon>YoneticiGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticisifre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticisifre.Designer.cs">
+      <DependentUpon>yoneticisifre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ödemelergiriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ödemelergiriş.Designer.cs">
+      <DependentUpon>ödemelergiriş.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="aidatodeform.resx">
+      <DependentUpon>aidatodeform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="asansorodemefrm.resx">
+      <DependentUpon>asansorodemefrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="elektriködeme1.resx">
+      <DependentUpon>elektriködeme1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gulmezaptgiris.resx">
+      <DependentUpon>gulmezaptgiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gulmezoda.resx">
+      <DependentUpon>gulmezoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciGirisi.resx">
+      <DependentUpon>KullaniciGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="macaraptgiris.resx">
+      <DependentUpon>macaraptgiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="macarGercekKisiler.resx">
+      <DependentUpon>macarGercekKisiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="saracaptgiris.resx">
+      <DependentUpon>saracaptgiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saracoda.resx">
+      <DependentUpon>saracoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sifremiunuttum.resx">
+      <DependentUpon>sifremiunuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suodeme.resx">
+      <DependentUpon>suodeme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yenikullanıcıform.resx">
+      <DependentUpon>yenikullanıcıform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiGirisi.resx">
+      <DependentUpon>YoneticiGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticisifre.resx">
+      <DependentUpon>yoneticisifre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ödemelergiriş.resx">
+      <DependentUpon>ödemelergiriş.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DbSiteDataSet.xsc">
+      <DependentUpon>DbSiteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DbSiteDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DbSiteDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DbSiteDataSet.xss">
+      <DependentUpon>DbSiteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22f6dd79441db699717db5d7e54e68b4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salon.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mutfak.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salon %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mutfak%281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %281%291.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salon %281%291.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mutfak%281%291.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,70 @@
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\bin\Debug\apartman.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\bin\Debug\apartman.exe
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\bin\Debug\apartman.pdb
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.csproj.SuggestedBindingRedirects.cache
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.Properties.Resources.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.csproj.GenerateResource.cache
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.exe
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.pdb
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.macaraptgiris.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.gulmezaptgiris.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.saracaptgiris.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.YoneticiGirisi.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.Giris.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.gulmezoda.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.saracoda.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.KullaniciGirisi.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.yoneticisifre.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.macarGercekKisiler.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.ödemelergiriş.resources
+C:\Users\sevva\OneDrive\Masaüstü\yeni okul\apartman\apartman\obj\Debug\apartman.elektriködeme1.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\bin\Debug\apartman.exe.config
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\bin\Debug\apartman.exe
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\bin\Debug\apartman.pdb
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.csproj.AssemblyReference.cache
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.elektriködeme1.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.Giris.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.gulmezaptgiris.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.gulmezoda.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.KullaniciGirisi.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.macaraptgiris.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.macarGercekKisiler.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.Properties.Resources.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.saracaptgiris.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.saracoda.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.YoneticiGirisi.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.yoneticisifre.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.ödemelergiriş.resources
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.csproj.GenerateResource.cache
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.exe
+C:\Users\emirc\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.pdb
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\bin\Debug\apartman.exe.config
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\bin\Debug\apartman.exe
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\bin\Debug\apartman.pdb
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.csproj.AssemblyReference.cache
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.csproj.SuggestedBindingRedirects.cache
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.elektriködeme1.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.Giris.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.gulmezaptgiris.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.gulmezoda.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.KullaniciGirisi.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.macaraptgiris.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.macarGercekKisiler.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.Properties.Resources.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.saracaptgiris.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.saracoda.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.YoneticiGirisi.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.yoneticisifre.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.ödemelergiriş.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.csproj.GenerateResource.cache
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.exe
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.pdb
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.sifremiunuttum.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.suodeme.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.aidatodeform.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.asansorodemefrm.resources
+C:\Users\sevva\OneDrive\Masaüstü\apartman\apartman\obj\Debug\apartman.yenikullanıcıform.resources
